@@ -1,7 +1,7 @@
-* Helen of Troy
+# Helen of Troy
 License: CC BY-SA 4.0
 
-Parts:
+## Parts:
 1. Helen's birth and growth
 2. Dancing in the temple
 3. Helen and Theseus
